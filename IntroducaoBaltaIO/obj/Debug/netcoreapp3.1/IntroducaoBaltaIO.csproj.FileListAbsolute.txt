@@ -1,0 +1,12 @@
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/bin/Debug/netcoreapp3.1/IntroducaoBaltaIO.deps.json
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/bin/Debug/netcoreapp3.1/IntroducaoBaltaIO.runtimeconfig.json
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/bin/Debug/netcoreapp3.1/IntroducaoBaltaIO.runtimeconfig.dev.json
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/bin/Debug/netcoreapp3.1/IntroducaoBaltaIO.dll
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/bin/Debug/netcoreapp3.1/IntroducaoBaltaIO.pdb
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.csprojAssemblyReference.cache
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.csproj.CoreCompileInputs.cache
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.AssemblyInfoInputs.cache
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.AssemblyInfo.cs
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.dll
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.pdb
+/Users/beatrizgoncalves/Projects/IntroducaoBaltaIO/IntroducaoBaltaIO/obj/Debug/netcoreapp3.1/IntroducaoBaltaIO.genruntimeconfig.cache
